@@ -1,0 +1,11 @@
+domain: nhsengland.github.io
+url: https://nhsengland.github.io
+baseurl: /nhse-io-jekyll-template
+repository: nhsengland/nhse-io-jekyll-template
+title: Example Site
+description: Description
+email: email@nhs.net
+github_username: nhsengland
+plugins:
+  - jemoji
+
