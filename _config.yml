@@ -1,6 +1,6 @@
 domain: nhsengland.github.io
 url: https://nhsengland.github.io
-baseurl: /DataScience-Signpost/
+baseurl: /DataScience-Signpost
 repository: nhsengland/DataScience-Signpost
 title: NHSE Data Science SignPost
 description: Links to our data science resources
