@@ -20,7 +20,7 @@ permalink:
 <ul class="nhsuk-grid-row nhsuk-card-group">
    <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
     <div class="nhsuk-card nhsuk-card--clickable">
-      <img class="nhsuk-card__img" src="assets/img/NHS_england.jpeg" alt="teaser" />
+      <img class="nhsuk-card__img" src="assets/img/casestudy.png" alt="teaser" height="250" />
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://nhsengland.github.io/DataScience/CaseStudies">Case Studies</a>
@@ -31,7 +31,7 @@ permalink:
   </li>
    <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
     <div class="nhsuk-card nhsuk-card--clickable">
-      <img class="nhsuk-card__img" src="assets/img/NHS_england.jpeg" alt="teaser" />
+      <img class="nhsuk-card__img" src="assets/img/repo.png" alt="teaser"  height="250"/>
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://github.com/NHSDigital/data-analytics-services">Our Repositories</a>
@@ -42,7 +42,7 @@ permalink:
   </li>
    <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
     <div class="nhsuk-card nhsuk-card--clickable">
-      <img class="nhsuk-card__img" src="assets/img/NHS_england.jpeg" alt="teaser" />
+      <img class="nhsuk-card__img" src="assets/img/graph.jpg" alt="teaser"  height="250"/>
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/">NHSE Data Science PhD Internships</a>
@@ -57,7 +57,7 @@ permalink:
 <ul class="nhsuk-grid-row nhsuk-card-group">
    <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
     <div class="nhsuk-card nhsuk-card--clickable">
-      <img class="nhsuk-card__img" src="assets/img/NHS_england.jpeg" alt="teaser" />
+      <img class="nhsuk-card__img" src="assets/img/skunkworks.png" alt="teaser"  height="250"/>
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://nhsx.github.io/skunkworks/">NHS AI Skunkworks Case Studies</a>
@@ -68,7 +68,7 @@ permalink:
   </li>
    <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
     <div class="nhsuk-card nhsuk-card--clickable">
-      <img class="nhsuk-card__img" src="assets/img/NHS_england.jpeg" alt="teaser" />
+      <img class="nhsuk-card__img" src="assets/img/RAP.png" alt="teaser"  height="250"/>
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://nhsdigital.github.io/rap-community-of-practice/">RAP Community of Practice</a>
@@ -79,7 +79,7 @@ permalink:
   </li>
    <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
     <div class="nhsuk-card nhsuk-card--clickable">
-      <img class="nhsuk-card__img" src="assets/img/NHS_england.jpeg" alt="teaser" />
+      <img class="nhsuk-card__img" src="assets/img/codereuse.jpeg" alt="teaser"  height="250"/>
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://nhsengland.github.io/DataScience/ReuseableCode">ReusableCode</a>
