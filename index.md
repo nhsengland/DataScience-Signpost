@@ -25,7 +25,7 @@ permalink:
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://nhsengland.github.io/DataScience/CaseStudies">Case Studies</a>
         </h2>
-        <p class="nhsuk-card__description">Short writeups with links to code, reports and full case studies highlighting our work</p>
+        <p class="nhsuk-card__description">Coming Soon</p>
       </div>
     </div>
   </li>
@@ -82,7 +82,7 @@ permalink:
       <img class="nhsuk-card__img" src="assets/img/codereuse.jpeg" alt="teaser"  height="250"/>
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
-          <a class="nhsuk-card__link" href="https://nhsengland.github.io/DataScience/ReuseableCode">ReusableCode</a>
+          <a class="nhsuk-card__link" href="https://nhsengland.github.io/DataScience-ReusableCode/">ReusableCode</a>
         </h2>
         <p class="nhsuk-card__description">Highlighting specific codebases that have been developed for reuse by other NHS analysts</p>
       </div>
