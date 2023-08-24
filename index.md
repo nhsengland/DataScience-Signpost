@@ -42,7 +42,7 @@ permalink:
   </li>
    <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
     <div class="nhsuk-card nhsuk-card--clickable">
-      <img class="nhsuk-card__img" src="assets/img/data_science_badge_S.jpg" alt="teaser"  height="250"/>
+      <img class="nhsuk-card__img" src="assets/img/data_science_badge_L.png" alt="teaser"  height="250"/>
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/">NHSE Data Science PhD Internships</a>
@@ -79,7 +79,7 @@ permalink:
   </li>
    <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
     <div class="nhsuk-card nhsuk-card--clickable">
-      <img class="nhsuk-card__img" src="assets/img/ReusableCode.jpeg" alt="teaser"  height="250"/>
+      <img class="nhsuk-card__img" src="assets/img/ReusableCode.png" alt="teaser"  height="250"/>
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://nhsengland.github.io/DataScience-ReusableCode/">ReusableCode</a>
