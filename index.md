@@ -17,7 +17,7 @@ permalink:
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://nhsengland.github.io/DataScience-CaseStudies">Case Studies</a>
         </h2>
-        <p class="nhsuk-card__description">Coming Soon</p>
+        <p class="nhsuk-card__description">Project briefs with links to support understanding and transparency around our work</p>
       </div>
     </div>
   </li>
