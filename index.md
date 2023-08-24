@@ -23,7 +23,7 @@ permalink:
       <img class="nhsuk-card__img" src="assets/img/CaseStudies.png" alt="teaser" height="250" />
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
-          <a class="nhsuk-card__link" href="https://nhsengland.github.io/DataScience/CaseStudies">Case Studies</a>
+          <a class="nhsuk-card__link" href="https://nhsengland.github.io/DataScience-CaseStudies">Case Studies</a>
         </h2>
         <p class="nhsuk-card__description">Coming Soon</p>
       </div>
