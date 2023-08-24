@@ -20,7 +20,7 @@ permalink:
 <ul class="nhsuk-grid-row nhsuk-card-group">
    <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
     <div class="nhsuk-card nhsuk-card--clickable">
-      <img class="nhsuk-card__img" src="assets/img/casestudy.png" alt="teaser" height="250" />
+      <img class="nhsuk-card__img" src="assets/img/CaseStudies.png" alt="teaser" height="250" />
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://nhsengland.github.io/DataScience/CaseStudies">Case Studies</a>
@@ -31,7 +31,7 @@ permalink:
   </li>
    <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
     <div class="nhsuk-card nhsuk-card--clickable">
-      <img class="nhsuk-card__img" src="assets/img/repo.png" alt="teaser"  height="250"/>
+      <img class="nhsuk-card__img" src="assets/img/repositories.png" alt="teaser"  height="250"/>
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://github.com/NHSDigital/data-analytics-services">Our Repositories</a>
@@ -42,7 +42,7 @@ permalink:
   </li>
    <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
     <div class="nhsuk-card nhsuk-card--clickable">
-      <img class="nhsuk-card__img" src="assets/img/graph.jpg" alt="teaser"  height="250"/>
+      <img class="nhsuk-card__img" src="assets/img/data_science_badge_S.jpg" alt="teaser"  height="250"/>
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://nhsx.github.io/nhsx-internship-projects/">NHSE Data Science PhD Internships</a>
@@ -79,7 +79,7 @@ permalink:
   </li>
    <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
     <div class="nhsuk-card nhsuk-card--clickable">
-      <img class="nhsuk-card__img" src="assets/img/codereuse.jpeg" alt="teaser"  height="250"/>
+      <img class="nhsuk-card__img" src="assets/img/ReusableCode.jpeg" alt="teaser"  height="250"/>
       <div class="nhsuk-card__content">
         <h2 class="nhsuk-card__heading nhsuk-heading-m">
           <a class="nhsuk-card__link" href="https://nhsengland.github.io/DataScience-ReusableCode/">ReusableCode</a>
